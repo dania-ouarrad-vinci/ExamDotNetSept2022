@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\Examen\\ExamSept2022Tout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{291EDB8D-6CD9-460D-AB3D-CD57CC2E38B9}|ExamSept2022Tout.csproj|c:\\users\\ecole - dania\\desktop\\net\\examen\\examsept2022tout\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291EDB8D-6CD9-460D-AB3D-CD57CC2E38B9}|ExamSept2022Tout.csproj|solutionrelative:viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291EDB8D-6CD9-460D-AB3D-CD57CC2E38B9}|ExamSept2022Tout.csproj|c:\\users\\ecole - dania\\desktop\\net\\examen\\examsept2022tout\\viewmodels\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291EDB8D-6CD9-460D-AB3D-CD57CC2E38B9}|ExamSept2022Tout.csproj|solutionrelative:viewmodels\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291EDB8D-6CD9-460D-AB3D-CD57CC2E38B9}|ExamSept2022Tout.csproj|c:\\users\\ecole - dania\\desktop\\net\\examen\\examsept2022tout\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{291EDB8D-6CD9-460D-AB3D-CD57CC2E38B9}|ExamSept2022Tout.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291EDB8D-6CD9-460D-AB3D-CD57CC2E38B9}|ExamSept2022Tout.csproj|c:\\users\\ecole - dania\\desktop\\net\\examen\\examsept2022tout\\viewmodels\\productsalesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291EDB8D-6CD9-460D-AB3D-CD57CC2E38B9}|ExamSept2022Tout.csproj|solutionrelative:viewmodels\\productsalesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductSalesModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\Examen\\ExamSept2022Tout\\ViewModels\\ProductSalesModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductSalesModel.cs",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\Examen\\ExamSept2022Tout\\ViewModels\\ProductSalesModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductSalesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:44:09.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\Examen\\ExamSept2022Tout\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\Examen\\ExamSept2022Tout\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-04T11:00:39.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\Examen\\ExamSept2022Tout\\ViewModels\\ProductModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\Examen\\ExamSept2022Tout\\ViewModels\\ProductModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductModel.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA2wDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:53:27.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\Examen\\ExamSept2022Tout\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\Ecole - DANIA\\Desktop\\net\\Examen\\ExamSept2022Tout\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv0cAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:53:10.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
